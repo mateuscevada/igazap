@@ -1,7 +1,7 @@
 <script>
     var links = [
-        "api.whatsapp.com/send?phone=5511999021430",
-        "api.whatsapp.com/send?phone=5511999071430"
+        "wa.me/5511999021430",
+        "wa.me/5511999071430"
     ]
 
     var openSite = function () {
